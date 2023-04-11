@@ -1,4 +1,4 @@
-# my-zram-systemd
+# HPC-zram-systemd
 
 HPC zram Script for systemd on RHEL 7 / CentOS 7
 
